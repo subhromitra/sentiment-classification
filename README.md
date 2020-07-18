@@ -12,7 +12,7 @@ For this task I have used BERT model.
 
 The general workflow for this project is visualized using the following pic :-
 
-![workflow image]()
+![workflow image](https://raw.githubusercontent.com/subhromitra/sentiment-classification/master/proj_workflow.JPG)
 
 ### Prerequisites:
 
