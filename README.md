@@ -14,7 +14,7 @@ The general workflow for this project is visualized using the following pic :-
 
 ![workflow image](https://raw.githubusercontent.com/subhromitra/sentiment-classification/master/proj_workflow.JPG)
 
-### Experiments coducted :-
+### Experiments conducted :-
 
 **1) Varying token length :-**
 
