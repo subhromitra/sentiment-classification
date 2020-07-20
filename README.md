@@ -6,7 +6,7 @@ Classifying movie reviews from IMDB dataset.
 
 ### Deep learning model used :-
 
-For this task I have used BERT model. **Accuracy achieved :- 89.3 % (test set)**
+For this task I have used BERT model. **Accuracy achieved :- 90.22 % (test set)**
 
 ### Project Workflow :-
 
